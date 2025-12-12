@@ -16,13 +16,7 @@
     <div class="container mx-auto px-6 flex items-center justify-between">
         <!-- Logo -->
         <a href="/" class="flex items-center gap-2 text-white font-semibold text-xl tracking-tight">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M3 7C3 5.89543 3.89543 5 5 5H19C20.1046 5 21 5.89543 21 7V17C21 18.1046 20.1046 19 19 19H5C3.89543 19 3 18.1046 3 17V7Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M3 9H21" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                <circle cx="6.5" cy="7" r="0.5" fill="white"/>
-                <circle cx="8.5" cy="7" r="0.5" fill="white"/>
-                <circle cx="10.5" cy="7" r="0.5" fill="white"/>
-            </svg>
+            <img src="/uploaded/1765524138054-dct7dvv.svg" alt="South East Cloud" class="h-8 w-auto" />
             South East Cloud
         </a>
 
