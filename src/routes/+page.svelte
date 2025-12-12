@@ -14,7 +14,7 @@
                 <div class="max-w-4xl mx-auto text-center">
                     <!-- Search/Notification Pill -->
                     <div class="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/10 rounded-full px-4 py-1.5 mb-8">
-                        <span class="w-2 h-2 rounded-full bg-[var(--color-primary)]"></span>
+                        <span class="w-2 h-2 rounded-full bg-primary"></span>
                         <span class="text-white text-sm font-medium">Google Cloud Powered</span>
                         <span class="text-gray-400 text-sm">Australian Infrastructure</span>
                         <svg class="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
@@ -90,7 +90,7 @@
                                         <span>12%</span>
                                     </div>
                                     <div class="h-2 bg-gray-100 rounded-full overflow-hidden">
-                                        <div class="h-full bg-[var(--color-primary)] w-[12%]"></div>
+                                        <div class="h-full bg-primary w-[12%]"></div>
                                     </div>
                                 </div>
                                 <div class="space-y-2">
@@ -174,7 +174,7 @@
         <section class="py-32 relative overflow-hidden">
             <div class="container mx-auto px-6 relative z-10">
                 <div class="text-center mb-24">
-                    <h2 class="text-[var(--color-primary)] font-mono text-xs tracking-[0.2em] uppercase mb-6">Google Cloud Infrastructure</h2>
+                    <h2 class="text-primary font-mono text-xs tracking-[0.2em] uppercase mb-6">Google Cloud Infrastructure</h2>
                     <h3 class="text-4xl md:text-6xl font-bold text-white mb-2 tracking-tight">Enterprise performance.</h3>
                     <h3 class="text-4xl md:text-6xl font-bold text-gray-600 tracking-tight">Australian pricing.</h3>
                 </div>
@@ -251,7 +251,7 @@
                     <div class="hidden lg:block w-64 flex-shrink-0">
                         <div class="sticky top-32 space-y-4">
                             <div class="flex items-center gap-2 text-sm font-semibold text-black border-l-2 border-black pl-4 py-1">
-                                <span class="w-1.5 h-1.5 rounded-full bg-[var(--color-primary)]"></span>
+                                <span class="w-1.5 h-1.5 rounded-full bg-primary"></span>
                                 Lightning Performance
                             </div>
                             <a href="#" class="block text-sm text-gray-500 pl-4 py-1 hover:text-black border-l-2 border-transparent hover:border-gray-200 transition-colors">Automatic Backups</a>
@@ -407,7 +407,7 @@
                     
                     <div class="relative z-10 max-w-3xl mx-auto">
                         <h2 class="text-4xl md:text-6xl font-bold text-white mb-6 tracking-tight">
-                            Launch your WordPress site. <span class="text-[var(--color-primary)]">In minutes, not hours.</span>
+                            Launch your WordPress site. <span class="text-primary">In minutes, not hours.</span>
                         </h2>
                         <p class="text-gray-400 mb-10">
                             One-click WordPress installation, automatic updates, and expert support. Everything you need to get online fast.

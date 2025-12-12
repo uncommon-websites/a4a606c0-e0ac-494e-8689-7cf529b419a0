@@ -29,7 +29,7 @@
         </div>
 
         <!-- CTA -->
-        <a href="#" class="hidden md:flex items-center gap-1 text-sm font-medium text-white hover:text-[var(--color-primary)] transition-colors">
+        <a href="#" class="hidden md:flex items-center gap-2 text-sm font-medium bg-primary text-white hover:bg-primary-600 transition-colors px-4 py-2 rounded-full">
             Get Started
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M5 12h14M12 5l7 7-7 7"/>

@@ -4,7 +4,7 @@
         <div class="flex flex-col items-center text-center mb-24">
             <h2 class="text-4xl md:text-5xl font-bold mb-6 tracking-tight">Your WordPress site<br>deserves better hosting</h2>
             <p class="text-gray-400 mb-8 max-w-xl">Join Australian businesses who've switched to premium hosting that actually delivers. Start your free trial today.</p>
-            <button class="bg-[var(--color-primary)] hover:bg-[var(--color-primary-600)] text-white px-8 py-3 rounded-full font-medium transition-colors flex items-center gap-2">
+            <button class="bg-primary hover:bg-primary-600 text-white px-8 py-3 rounded-full font-medium transition-colors flex items-center gap-2">
                 Start Free Trial
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M5 12h14M12 5l7 7-7 7"/>
