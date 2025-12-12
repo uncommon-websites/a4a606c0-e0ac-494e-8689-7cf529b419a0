@@ -402,8 +402,8 @@
                 <!-- Banner -->
                 <div class="bg-[#0A0A0A] rounded-3xl p-12 md:p-20 relative overflow-hidden mb-32 text-center">
                     <div class="absolute inset-0 bg-[url('/grid-pattern.svg')] opacity-10"></div>
-                    <div class="absolute left-0 top-0 w-64 h-64 bg-yellow-500/10 blur-[100px] rounded-full"></div>
-                    <div class="absolute right-0 bottom-0 w-64 h-64 bg-blue-500/10 blur-[100px] rounded-full"></div>
+                    <div class="absolute left-0 top-0 w-64 h-64 bg-primary/10 blur-[100px] rounded-full"></div>
+                    <div class="absolute right-0 bottom-0 w-64 h-64 bg-primary-700/10 blur-[100px] rounded-full"></div>
                     
                     <div class="relative z-10 max-w-3xl mx-auto">
                         <h2 class="text-4xl md:text-6xl font-bold text-white mb-6 tracking-tight">
@@ -458,15 +458,15 @@
                         </div>
                         <!-- Post 2 -->
                         <div class="group cursor-pointer">
-                            <div class="bg-gradient-to-br from-green-100 to-teal-100 rounded-3xl aspect-[16/9] mb-6 relative overflow-hidden flex items-center justify-center">
+                            <div class="bg-gradient-to-br from-primary/20 to-primary/10 rounded-3xl aspect-[16/9] mb-6 relative overflow-hidden flex items-center justify-center">
                                 <div class="flex gap-4">
-                                    <div class="w-16 h-16 rounded-full bg-green-400 blur-xl opacity-80"></div>
-                                    <div class="w-20 h-20 rounded-full bg-blue-400 blur-xl opacity-80"></div>
-                                    <div class="w-12 h-12 rounded-full bg-teal-400 blur-xl opacity-80"></div>
+                                    <div class="w-16 h-16 rounded-full bg-primary/60 blur-xl opacity-80"></div>
+                                    <div class="w-20 h-20 rounded-full bg-primary/80 blur-xl opacity-80"></div>
+                                    <div class="w-12 h-12 rounded-full bg-primary-600/60 blur-xl opacity-80"></div>
                                 </div>
                             </div>
                             <div class="text-xs font-bold text-gray-500 uppercase tracking-wider mb-2">Hosting Guide</div>
-                            <h3 class="text-2xl font-bold text-gray-900 group-hover:text-blue-600 transition-colors">Why Australian businesses need local WordPress hosting</h3>
+                            <h3 class="text-2xl font-bold text-gray-900 group-hover:text-primary transition-colors">Why Australian businesses need local WordPress hosting</h3>
                         </div>
                     </div>
                 </div>
